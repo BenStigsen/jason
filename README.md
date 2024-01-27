@@ -1,5 +1,6 @@
 # Jason
-Go module to better process and use dynamic JSON.
+Go module to better process and use dynamic JSON.  
+https://pkg.go.dev/github.com/benstigsen/jason
 
 ## Example
 ```json
