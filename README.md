@@ -25,6 +25,11 @@ Go module to better process and use dynamic JSON.
 ```
 
 ```go
+import (
+	"fmt"
+	"github.com/benstigsen/jason"
+)
+
 type VideoMetadata struct {
 	Creator string `json:"creator"`
 	Format  string `json:"format"`
